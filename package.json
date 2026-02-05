@@ -1,0 +1,16 @@
+{
+  "name": "ahmed90jdj.github.io",
+  "version": "1.0.0",
+  "description": "Personal resume website hosted on GitHub Pages",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "serve": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmed90jdj/ahmed90jdj.github.io.git"
+  },
+  "author": "Ahmed Ibrahim",
+  "license": "MIT"
+}
